@@ -1,2 +1,3 @@
 # git215_setup
-git 215 set up
+
+## Author: Ariel Strother
